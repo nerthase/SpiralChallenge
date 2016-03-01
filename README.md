@@ -32,7 +32,7 @@ Here's an example of a 10x10 grid:
 
 ## Evaluation
 
-We'll evaluate all solutions sent to us within the deadline and award the best
+We'll evaluate all solutions received before the deadline and award the best
 (as in: most elegant, nice, readable, pleasantly surprising) one.
 
 ## License
