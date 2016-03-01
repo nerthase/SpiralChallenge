@@ -10,7 +10,6 @@ public func fill(var grid: Grid) -> Grid {
     
 }
 
-
 // Example
 
 let spiral = fill(Grid(rows: 10, columns: 10))
