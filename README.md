@@ -1,4 +1,6 @@
-# Spiral Algorithm Challenge
+# Spiral Algorithm Challenge [Proposed Solution]
+
+Original Challenge: https://github.com/pragmamark/SpiralChallenge
 
 ## Instructions
 
